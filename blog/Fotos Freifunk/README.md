@@ -27,4 +27,8 @@ Das sind Fotos vom Hinterhof.
 ![](hinterhof/SDC18891.JPG)
 ![](hinterhof/SDC18892.JPG)
 
+Links
+-----
 
+- [OpenWIFIMap](https://openwifimap.net/#detail?node=254-111-heinrich-von-kleist-24.olsr)
+- [Freifunk Potsdam Map](https://monitor.freifunk-potsdam.de/ff/apmap)

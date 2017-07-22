@@ -1,4 +1,4 @@
-Fotos von der Heinrich-von-Kleist-Straﬂe f¸r Freifunker zum Meshen
+Fotos von der Heinrich-von-Kleist-Stra√üe f√ºr Freifunker zum Meshen
 ==================================================================
 
 Um mit anderen Freifunkern zu Meshen, ist es hilfreich, herauszufinden, ob man Sichtkontakt hat.
@@ -6,24 +6,24 @@ Um mit anderen Freifunkern zu Meshen, ist es hilfreich, herauszufinden, ob man S
 Walter-Klausch-Str. 13
 ----------------------
 
-![](SDC19170.JPG)
-![](SDC19169.JPG)
-![](SDC19168.JPG)
-![](SDC19167.JPG)
-![](SDC19166.JPG)
-![](SDC19165.JPG)
+![](walter-klausch-str-13/SDC19170.JPG)
+![](walter-klausch-str-13/SDC19169.JPG)
+![](walter-klausch-str-13/SDC19168.JPG)
+![](walter-klausch-str-13/SDC19167.JPG)
+![](walter-klausch-str-13/SDC19166.JPG)
+![](walter-klausch-str-13/SDC19165.JPG)
 
-Heinrich-von-Kleist-Straﬂe 24
+Heinrich-von-Kleist-Stra√üe 24
 -----------------------------
 
-Diese Fotos wurden zur Straﬂe hin gemacht.
+Diese Fotos wurden zur Stra√üe hin gemacht.
 
-![](heinrich-von-kleist-straﬂe-24/Capture.PNG)
-![](heinrich-von-kleist-straﬂe-24/SDC18893.JPG)
-![](heinrich-von-kleist-straﬂe-24/SDC18894.JPG)
-![](heinrich-von-kleist-straﬂe-24/SDC18895.JPG)
-![](heinrich-von-kleist-straﬂe-24/SDC18896.JPG)
-![](heinrich-von-kleist-straﬂe-24/SDC18897.JPG)
+![](heinrich-von-kleist-stra√üe-24/Capture.PNG)
+![](heinrich-von-kleist-stra√üe-24/SDC18893.JPG)
+![](heinrich-von-kleist-stra√üe-24/SDC18894.JPG)
+![](heinrich-von-kleist-stra√üe-24/SDC18895.JPG)
+![](heinrich-von-kleist-stra√üe-24/SDC18896.JPG)
+![](heinrich-von-kleist-stra√üe-24/SDC18897.JPG)
 
 ### Hinterhof
 
@@ -41,31 +41,31 @@ Das sind Fotos vom Hinterhof.
 - [OpenWIFIMap](https://openwifimap.net/#detail?node=254-111-heinrich-von-kleist-24.olsr)
 - [Freifunk Potsdam Map](https://monitor.freifunk-potsdam.de/ff/apmap)
 
-Heinrich-von-Kleist-Straﬂe 11
+Heinrich-von-Kleist-Stra√üe 11
 -----------------------------
 
-Diese Fotos wurden zur Straﬂe hin gemacht.
+Diese Fotos wurden zur Stra√üe hin gemacht.
 
-![](heinrich-von-kleist-straﬂe-11/Capture.PNG)
-![](heinrich-von-kleist-straﬂe-11/SDC18902.JPG)
-![](heinrich-von-kleist-straﬂe-11/SDC18903.JPG)
-![](heinrich-von-kleist-straﬂe-11/SDC18904.JPG)
-![](heinrich-von-kleist-straﬂe-11/SDC18905.JPG)
-![](heinrich-von-kleist-straﬂe-11/SDC18906.JPG)
+![](heinrich-von-kleist-stra√üe-11/Capture.PNG)
+![](heinrich-von-kleist-stra√üe-11/SDC18902.JPG)
+![](heinrich-von-kleist-stra√üe-11/SDC18903.JPG)
+![](heinrich-von-kleist-stra√üe-11/SDC18904.JPG)
+![](heinrich-von-kleist-stra√üe-11/SDC18905.JPG)
+![](heinrich-von-kleist-stra√üe-11/SDC18906.JPG)
 
 ### Balkon
 
 Das sind Fotos vom Balkon vom Hinterhof aus.
 
-![](heinrich-von-kleist-straﬂe-11/Capture2.PNG)
-![](heinrich-von-kleist-straﬂe-11/SDC18899.JPG)
-![](heinrich-von-kleist-straﬂe-11/SDC18901.JPG)
-![](heinrich-von-kleist-straﬂe-11/SDC18907.JPG)
-![](heinrich-von-kleist-straﬂe-11/SDC18908.JPG)
-![](heinrich-von-kleist-straﬂe-11/SDC18909.JPG)
-![](heinrich-von-kleist-straﬂe-11/SDC18910.JPG)
-![](heinrich-von-kleist-straﬂe-11/SDC18911.JPG)
-![](heinrich-von-kleist-straﬂe-11/SDC18912.JPG)
+![](heinrich-von-kleist-stra√üe-11/Capture2.PNG)
+![](heinrich-von-kleist-stra√üe-11/SDC18899.JPG)
+![](heinrich-von-kleist-stra√üe-11/SDC18901.JPG)
+![](heinrich-von-kleist-stra√üe-11/SDC18907.JPG)
+![](heinrich-von-kleist-stra√üe-11/SDC18908.JPG)
+![](heinrich-von-kleist-stra√üe-11/SDC18909.JPG)
+![](heinrich-von-kleist-stra√üe-11/SDC18910.JPG)
+![](heinrich-von-kleist-stra√üe-11/SDC18911.JPG)
+![](heinrich-von-kleist-stra√üe-11/SDC18912.JPG)
 
 
 ### Links

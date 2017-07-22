@@ -3,6 +3,16 @@ Fotos von der Heinrich-von-Kleist-Straße für Freifunker zum Meshen
 
 Um mit anderen Freifunkern zu Meshen, ist es hilfreich, herauszufinden, ob man Sichtkontakt hat.
 
+Walter-Klausch-Str. 13
+----------------------
+
+![](SDC19170.JPG)
+![](SDC19169.JPG)
+![](SDC19168.JPG)
+![](SDC19167.JPG)
+![](SDC19166.JPG)
+![](SDC19165.JPG)
+
 Heinrich-von-Kleist-Straße 24
 -----------------------------
 
